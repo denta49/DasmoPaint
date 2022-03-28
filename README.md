@@ -1,3 +1,3 @@
 Hi!
 
-Her's another example of simple page which I've made with codecademy course. Demo here https://denta49.github.io/codeSite/
+Here is a simple website of paint store. Demo here https://denta49.github.io/codeSite/
